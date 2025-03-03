@@ -1,6 +1,9 @@
+# Install openpyxl package
+import os
+os.system('pip install openpyxl')
+
 import streamlit as st
 import pandas as pd
-import os
 from io import BytesIO
 
 st.set_page_config(page_title="Data Sweeper", page_icon="🧹", layout='wide')
