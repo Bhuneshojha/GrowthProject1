@@ -13,7 +13,7 @@ st.markdown(
  """
     <style>
     .stApp{
-            background-color: #c9c5b1;
+            background-color: #f2eeda;
             color: #1f3652;
 
     }
